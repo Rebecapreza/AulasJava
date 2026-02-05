@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java-bosch/15-08/15-08.iml" filepath="$PROJECT_DIR$/Java-bosch/15-08/15-08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java - aulas/15-08/15-9.iml" filepath="$PROJECT_DIR$/Java - aulas/15-08/15-9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GerenciamentoVariaveisJava/GerenciamentoVariaveisJava.iml" filepath="$PROJECT_DIR$/GerenciamentoVariaveisJava/GerenciamentoVariaveisJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java.iml" filepath="$PROJECT_DIR$/.idea/Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java - listas/Java - listas.iml" filepath="$PROJECT_DIR$/Java - listas/Java - listas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/POO Java/POO Java.iml" filepath="$PROJECT_DIR$/POO Java/POO Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-bosch/PrimeiroProjeto/PrimeiroProjeto.iml" filepath="$PROJECT_DIR$/Java-bosch/PrimeiroProjeto/PrimeiroProjeto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java - aulas/PrimeiroProjeto/PrimeiroProjeto2.iml" filepath="$PROJECT_DIR$/Java - aulas/PrimeiroProjeto/PrimeiroProjeto2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/encapsulamento/encapsulamento.iml" filepath="$PROJECT_DIR$/encapsulamento/encapsulamento.iml" />
+    </modules>
+  </component>
+</project>
